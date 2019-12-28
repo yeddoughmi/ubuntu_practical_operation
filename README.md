@@ -9,5 +9,5 @@ practical operation ubuntu 18.4, 16
   pactl load-module module-bluetooth-discover
   source ~/.bashrc 
   
- ref: https://makandracards.com/makandra/47024-how-to-pair-a-bose-quiet-comfort-35-with-your-ubuntu-computer
+ ref: [makandracards](https://makandracards.com/makandra/47024-how-to-pair-a-bose-quiet-comfort-35-with-your-ubuntu-computer)
 ```
